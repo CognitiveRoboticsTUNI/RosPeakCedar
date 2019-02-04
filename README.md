@@ -11,7 +11,7 @@ Everything you need to know about ROS -> http://www.ros.org/
 
 The plugin is a basic ROS subscriber reading data from a topic with the type Float64.
 You can specify the name of the topic in the Qt widget.
-The plugin output a one dimensional gaussian function you could use to project to anything. The strength of the activation depends on the value on the ros subscriber.
+The plugin output a one dimensional gaussian function you could use to project to anything. The strength of the activation depends on the value of the ros subscriber.
 
 Of course you can adapat it to subscribe to any topic.
 
