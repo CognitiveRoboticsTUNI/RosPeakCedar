@@ -81,17 +81,10 @@ You will see that the EarSubscriber transform the input of a topic into a 1D Gau
 For this case, I read data from a noise sensor and use the value as amplitude of the gaussian function.
 
 
-## Work in progress
-
-In the future, the plugin will use the Qt widget interface to select the nodes, topics and types in order to avoid changing the code everytime you want to subscribe to a topic.
-
-The plugin will be more like an artefact binding sensors to DFT.
-
-
 
 ## Authors
 
-Quentin Houbre - Tampere University of Technology
+Quentin Houbre - Tampere University
 
 ## License
 
